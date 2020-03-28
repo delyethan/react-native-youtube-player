@@ -31,7 +31,7 @@ Link [`react-native-webview`](https://github.com/react-native-community/react-na
 react-native link react-native-webview
 react-native link @react-native-community/slider
 react-native link react-native-reanimated
-react-native link react-native-orientation
+react-native link @lightbase/react-native-orientation
 ```
 
 **IMPORTANT:** There are additional steps required for `react-native-orientation` on Android after running `react-native link react-native-orientation`. Check the [this guide](https://github.com/yamill/react-native-orientation#configuration) to complete the installation.
